@@ -1,0 +1,2 @@
+NOTE:  use this directory to store blender python scripts that I find 
+but haven't processed yet
