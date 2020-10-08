@@ -31,6 +31,9 @@ mat = bpy.data.materials.new(name='Material')  # Create a material.
 mat.diffuse_color = ( round (randint(-10, 10)/10),round (randint(-10, 10)/10),round (randint(-10, 10)/10), 1 )
 obj.data.materials.append(mat)  # Assign the new material.
 
+# Free assets:
+# https://sketchfab.com/3d-models?features=downloadable&sort_by=-likeCount
+
 print("here we go")
 print(cube)
 print(bpy.context.object)
